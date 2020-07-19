@@ -9,6 +9,7 @@ Link
 - https://programming-quotes-api.herokuapp.com/quotes/random
 - https://official-joke-api.appspot.com/jokes/random
 
-### python module
+### Python module
 - Tweepy
+- Requests
 - https://www.tweepy.org/
